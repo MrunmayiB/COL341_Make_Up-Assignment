@@ -1,0 +1,11 @@
+Model,R2Score,MSE
+model_task1_part1.pt,0.5561,0.7351
+model_task1_part3_batchnorm.pt,0.6696,0.5472
+model_task1_part3_dropout.pt,0.7483,0.4168
+model_task1_part3_unfreezedLayers.pt,0.9213,0.1304
+model_task1_part3_LeakyReLU.pt,0.6051,0.6540
+model_task1_part3_Sigmoid.pt,0.3193,1.1274
+model_task1_part3_Tanh.pt,0.6827,0.5255
+model_task1_part3_LR_1e-2.pt,0.6223,0.6256
+model_task1_part3_LR_5e-3.pt,0.6591,0.5646
+
